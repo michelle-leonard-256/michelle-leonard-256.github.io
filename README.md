@@ -18,6 +18,10 @@ A video essay analyzing the aesthetic and mechanic legacies that inspired Dicey 
 
 My first TTRPG: GM-less, no-prep, lightweight, d6-based, 3-7 players; basically, everything I found myself wishing for in a game I could play with my friends. It was a fun exercise in ludonarrative consonance!
 
+### Fishing Derb-80
+[![A gif showing a cartoony, pixellated video game, based on "Fishing Derby" for the Atari 2600. Two fishermen cast lines into blue water, occasionally hooking and reeling up orange fish that swim back and forth on individual rows. A shark swims around in the water, getting aggravated when it spots fish and accelerates, trying to eat them off the hook.](https://github.com/michelle-leonard-256/michelle-leonard-256.github.io/blob/0b5d2456a4351e2d85c8eb337f5b2b5aa1f0ae63/_includes/video1.gif)](https://github.com/michelle-leonard-256/michelle-leonard-256.github.io/blob/0b5d2456a4351e2d85c8eb337f5b2b5aa1f0ae63/_includes/video1.gif)
+A remake of "Fishing Derby" by David Crane, programmed in Lua for the TIC-80 fantasy computer. I designed the overall class structure; implemented sprite movement and collision detection; and drew all of the sprites (based on the original Atari game). Created in collaboration with a classmate for a Swarthmore CS86 lab.
+
 ### Bumper Cars
 [![A gif showing a pixel-styled video game. A red car and a blue car race around a track in a grassy field. Occasionally they bump into each other or a tree and lose a heart.](https://github.com/michelle-leonard-256/michelle-leonard-256.github.io/blob/0b5d2456a4351e2d85c8eb337f5b2b5aa1f0ae63/_includes/video1.gif)](https://github.com/michelle-leonard-256/michelle-leonard-256.github.io/blob/0b5d2456a4351e2d85c8eb337f5b2b5aa1f0ae63/_includes/video1.gif)
 A bumper-cars game made in TIC-80, a small fantasy console that uses Lua. I implemented collision logic, multi-player support, and drew the pixel art. Code base and car sprites from [Josh Goebel's](https://github.com/nesbox/TIC-80/wiki/Driving-Model) TIC-80 vectors tutorial. Coded in collaboration with a classmate for a Swarthmore CS86 lab.
