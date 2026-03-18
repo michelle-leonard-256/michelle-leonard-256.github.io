@@ -21,6 +21,10 @@ My first TTRPG: GM-less, no-prep, lightweight, d6-based, 3-7 players; basically,
 ### Fishing Derb-80
 <iframe frameborder="0" src="https://itch.io/embed-upload/16849467?color=3b5dc9" allowfullscreen="" width="960" height="564"><a href="https://mkleonard.itch.io/fishing-derb-80">Play Fishing Derb-80 on itch.io</a></iframe>
 
+Or play on Itch:
+
+<iframe frameborder="0" src="https://itch.io/embed/4389648?bg_color=29366f&amp;fg_color=afbfd2&amp;link_color=ffcd75&amp;border_color=5a7ce8" width="552" height="167"><a href="https://mkleonard.itch.io/fishing-derb-80">Fishing Derb-80 by mkleonard</a></iframe>
+
 A remake of "Fishing Derby" by David Crane, programmed in Lua for the TIC-80 fantasy computer. I designed the overall class structure; implemented sprite movement and collision detection; and drew all of the sprites (based on the original Atari game). Created in collaboration with a classmate for a Swarthmore CS86 lab.
 
 ### Bumper Cars
