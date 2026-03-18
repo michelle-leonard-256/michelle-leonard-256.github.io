@@ -19,7 +19,7 @@ A video essay analyzing the aesthetic and mechanic legacies that inspired Dicey 
 My first TTRPG: GM-less, no-prep, lightweight, d6-based, 3-7 players; basically, everything I found myself wishing for in a game I could play with my friends. It was a fun exercise in ludonarrative consonance!
 
 ### Fishing Derb-80
-<iframe frameborder="0" src="https://itch.io/embed/4389648?border_width=0&amp;bg_color=29366f&amp;fg_color=afbfd2&amp;link_color=ffcd75&amp;border_color=3b5dc9" width="550" height="165"><a href="https://mkleonard.itch.io/fishing-derb-80">Fishing Derb-80 by mkleonard</a></iframe>
+<iframe frameborder="0" src="https://itch.io/embed-upload/16849467?color=3b5dc9" allowfullscreen="" width="960" height="564"><a href="https://mkleonard.itch.io/fishing-derb-80">Play Fishing Derb-80 on itch.io</a></iframe>
 
 A remake of "Fishing Derby" by David Crane, programmed in Lua for the TIC-80 fantasy computer. I designed the overall class structure; implemented sprite movement and collision detection; and drew all of the sprites (based on the original Atari game). Created in collaboration with a classmate for a Swarthmore CS86 lab.
 
