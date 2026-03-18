@@ -19,7 +19,8 @@ A video essay analyzing the aesthetic and mechanic legacies that inspired Dicey 
 My first TTRPG: GM-less, no-prep, lightweight, d6-based, 3-7 players; basically, everything I found myself wishing for in a game I could play with my friends. It was a fun exercise in ludonarrative consonance!
 
 ### Fishing Derb-80
-[![A gif showing a cartoony, pixellated video game, based on "Fishing Derby" for the Atari 2600. Two fishermen cast lines into blue water, occasionally hooking and reeling up orange fish that swim back and forth on individual rows. A shark swims around in the water, getting aggravated when it spots fish and accelerates, trying to eat them off the hook.](https://github.com/michelle-leonard-256/michelle-leonard-256.github.io/blob/f79217758830c35cdc4df353d4fcffb769d44447/_includes/fishingderb80.gif)](https://github.com/michelle-leonard-256/michelle-leonard-256.github.io/blob/f79217758830c35cdc4df353d4fcffb769d44447/_includes/fishingderb80.gif)
+<iframe frameborder="0" src="https://itch.io/embed/4244399?link_color=fabcd5" width="552" height="167"><a href="https://mkleonard.itch.io/fishing-derb-80">Chrysallis by mkleonard</a></iframe>
+
 A remake of "Fishing Derby" by David Crane, programmed in Lua for the TIC-80 fantasy computer. I designed the overall class structure; implemented sprite movement and collision detection; and drew all of the sprites (based on the original Atari game). Created in collaboration with a classmate for a Swarthmore CS86 lab.
 
 ### Bumper Cars
