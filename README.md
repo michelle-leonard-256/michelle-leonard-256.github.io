@@ -19,7 +19,7 @@ A video essay analyzing the aesthetic and mechanic legacies that inspired Dicey 
 My first TTRPG: GM-less, no-prep, lightweight, d6-based, 3-7 players; basically, everything I found myself wishing for in a game I could play with my friends. It was a fun exercise in ludonarrative consonance!
 
 ### Fishing Derb-80
-<iframe frameborder="0" src="https://itch.io/embed-upload/16849467?color=3b5dc9" allowfullscreen="" width="960" height="564"><a href="https://mkleonard.itch.io/fishing-derb-80">Play Fishing Derb-80 on itch.io</a></iframe>
+<iframe frameborder="0" src="https://itch.io/embed-upload/16849467?color=3b5dc9" allowfullscreen="" width="552" height="564"><a href="https://mkleonard.itch.io/fishing-derb-80">Play Fishing Derb-80 on itch.io</a></iframe>
 
 Or play on Itch:
 
